@@ -1,0 +1,28 @@
+{
+  "id": "llm-cognitive-planning",
+  "title": "LLM Cognitive Planning for Robotics",
+  "description": "Learn to use Large Language Models for cognitive planning to convert natural language commands into ROS 2 actions",
+  "source": "@site/docs/llm-cognitive-planning.md",
+  "sourceDirName": ".",
+  "slug": "/llm-cognitive-planning",
+  "permalink": "/docs/llm-cognitive-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/llm-cognitive-planning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LLM Cognitive Planning for Robotics",
+    "sidebar_label": "LLM Cognitive Planning",
+    "description": "Learn to use Large Language Models for cognitive planning to convert natural language commands into ROS 2 actions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voice Processing with Whisper",
+    "permalink": "/docs/voice-processing-with-whisper"
+  },
+  "next": {
+    "title": "VLA Capstone Project",
+    "permalink": "/docs/vla-capstone-project"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "/__docusaurus/debug-dcc": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-647-8fc"
+    }
+  },
+  "/__docusaurus/debug/config-bcb": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-647-8fc"
+    }
+  },
+  "/__docusaurus/debug/content-0b8": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-647-8fc"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-c85": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-647-8fc"
+    }
+  },
+  "/__docusaurus/debug/metadata-6f3": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-647-8fc"
+    }
+  },
+  "/__docusaurus/debug/registry-040": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-647-8fc"
+    }
+  },
+  "/__docusaurus/debug/routes-9d4": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-647-8fc"
+    }
+  },
+  "/docs-409": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsa-36-ed6"
+    }
+  },
+  "/docs-814": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-74d": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/digital-twins-unity-565": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-digital-twins-unity-082-7b0"
+  },
+  "/docs/intro-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/intro-ros2-physical-ai-9a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-ros-2-physical-ai-379-d1f"
+  },
+  "/docs/isaac-ros-vslam-navigation-7f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-ros-vslam-navigation-677-19f"
+  },
+  "/docs/llm-cognitive-planning-9db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-llm-cognitive-planning-8-aa-22f"
+  },
+  "/docs/nav2-path-planning-humanoid-robots-e67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nav-2-path-planning-humanoid-robotsb-8-c-da7"
+  },
+  "/docs/nvidia-isaac-sim-photorealistic-simulation-257": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nvidia-isaac-sim-photorealistic-simulation-889-6af"
+  },
+  "/docs/physics-simulation-gazebo-dbc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-physics-simulation-gazebo-541-85f"
+  },
+  "/docs/robot-structure-urdf-5b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robot-structure-urdf-5-bf-89d"
+  },
+  "/docs/ros2-communication-model-64c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ros-2-communication-model-1-fe-02f"
+  },
+  "/docs/sensor-simulation-validation-35b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sensor-simulation-validatione-9-d-cf3"
+  },
+  "/docs/vla-capstone-project-8a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-capstone-project-336-167"
+  },
+  "/docs/voice-processing-with-whisper-b84": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-voice-processing-with-whispera-20-182"
+  },
+  "/-d09": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---dbf-1c1"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

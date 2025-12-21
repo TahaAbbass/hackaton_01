@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.specify/scripts/powershell/create-new-feature.ps1 -Json \"Module 1: The Robotic Nervous System \\(ROS 2\\)\n\nTarget audience:\n- AI students and developers entering humanoid robotics\n\nFocus:\n- ROS 2 as the middleware nervous system for humanoid robots\n- Core communication concepts and humanoid description\n\nChapters \\(Docusaurus\\):\n1. Introduction to ROS 2 for Physical AI\n- What ROS 2 is, why it matters for humanoids, DDS concepts\n2. ROS 2 Communication Model\n- Nodes, Topics, Services, basic rclpy-based agent ↔ controller flow\n3. Robot Structure with URDF\n- Understanding URDF for humanoid robots and simulation readiness\" --number 1 --short-name \"ros2-nervous-system\")"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "robot-structure-urdf",
+  "title": "Robot Structure with URDF",
+  "description": "Understanding URDF for humanoid robot description and simulation readiness",
+  "source": "@site/docs/robot-structure-urdf.md",
+  "sourceDirName": ".",
+  "slug": "/robot-structure-urdf",
+  "permalink": "/docs/robot-structure-urdf",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/robot-structure-urdf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Robot Structure with URDF",
+    "sidebar_label": "Robot Structure with URDF",
+    "description": "Understanding URDF for humanoid robot description and simulation readiness"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Communication Model",
+    "permalink": "/docs/ros2-communication-model"
+  },
+  "next": {
+    "title": "Physics Simulation with Gazebo",
+    "permalink": "/docs/physics-simulation-gazebo"
+  }
+}

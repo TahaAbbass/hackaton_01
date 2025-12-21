@@ -1,0 +1,24 @@
+{
+  "id": "vla-capstone-project",
+  "title": "VLA Capstone Project - Autonomous Humanoid Control",
+  "description": "Complete capstone project integrating voice processing, LLM cognitive planning, and ROS 2 action execution for autonomous humanoid robots",
+  "source": "@site/docs/vla-capstone-project.md",
+  "sourceDirName": ".",
+  "slug": "/vla-capstone-project",
+  "permalink": "/docs/vla-capstone-project",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vla-capstone-project.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "VLA Capstone Project - Autonomous Humanoid Control",
+    "sidebar_label": "VLA Capstone Project",
+    "description": "Complete capstone project integrating voice processing, LLM cognitive planning, and ROS 2 action execution for autonomous humanoid robots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LLM Cognitive Planning",
+    "permalink": "/docs/llm-cognitive-planning"
+  }
+}

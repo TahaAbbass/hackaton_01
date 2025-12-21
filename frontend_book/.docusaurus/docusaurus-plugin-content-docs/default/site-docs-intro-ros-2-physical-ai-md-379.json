@@ -1,0 +1,28 @@
+{
+  "id": "intro-ros2-physical-ai",
+  "title": "Introduction to ROS 2 for Physical AI",
+  "description": "Understanding ROS 2 as the middleware nervous system for humanoid robots",
+  "source": "@site/docs/intro-ros2-physical-ai.md",
+  "sourceDirName": ".",
+  "slug": "/intro-ros2-physical-ai",
+  "permalink": "/docs/intro-ros2-physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro-ros2-physical-ai.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Introduction to ROS 2 for Physical AI",
+    "sidebar_label": "Introduction to ROS 2",
+    "description": "Understanding ROS 2 as the middleware nervous system for humanoid robots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Book Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Communication Model",
+    "permalink": "/docs/ros2-communication-model"
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#2e8555"/>
+  <text x="200" y="150" font-family="Arial" font-size="32" fill="white" text-anchor="middle">ROS 2</text>
+  <text x="200" y="200" font-family="Arial" font-size="24" fill="white" text-anchor="middle">Nervous System</text>
+  <text x="200" y="250" font-family="Arial" font-size="18" fill="white" text-anchor="middle">for Humanoid Robotics</text>
+  <circle cx="200" cy="320" r="40" fill="#33925d"/>
+</svg>

@@ -1,0 +1,28 @@
+{
+  "id": "nav2-path-planning-humanoid-robots",
+  "title": "Nav2 Path Planning for Humanoid Robots",
+  "description": "Learn to configure Nav2 for humanoid-specific path planning and navigation in robotics applications",
+  "source": "@site/docs/nav2-path-planning-humanoid-robots.md",
+  "sourceDirName": ".",
+  "slug": "/nav2-path-planning-humanoid-robots",
+  "permalink": "/docs/nav2-path-planning-humanoid-robots",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nav2-path-planning-humanoid-robots.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Nav2 Path Planning for Humanoid Robots",
+    "sidebar_label": "Nav2 Path Planning for Humanoid Robots",
+    "description": "Learn to configure Nav2 for humanoid-specific path planning and navigation in robotics applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac ROS for VSLAM and Navigation",
+    "permalink": "/docs/isaac-ros-vslam-navigation"
+  },
+  "next": {
+    "title": "Voice Processing with Whisper",
+    "permalink": "/docs/voice-processing-with-whisper"
+  }
+}

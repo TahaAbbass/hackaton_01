@@ -1,0 +1,496 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Taha Abbas\\Documents\\GitHub\\hackaton_01\\frontend_book\\sidebars.js",
+          "contentPath": "C:\\Users\\Taha Abbas\\Documents\\GitHub\\hackaton_01\\frontend_book\\docs",
+          "contentPathLocalized": "C:\\Users\\Taha Abbas\\Documents\\GitHub\\hackaton_01\\frontend_book\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "digital-twins-unity",
+              "title": "Digital Twins & HRI in Unity",
+              "description": "Learn to create high-fidelity digital twins and Human-Robot Interaction using Unity",
+              "source": "@site/docs/digital-twins-unity.md",
+              "sourceDirName": ".",
+              "slug": "/digital-twins-unity",
+              "permalink": "/docs/digital-twins-unity",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/digital-twins-unity.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Digital Twins & HRI in Unity",
+                "sidebar_label": "Digital Twins & HRI in Unity",
+                "description": "Learn to create high-fidelity digital twins and Human-Robot Interaction using Unity"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Physics Simulation with Gazebo",
+                "permalink": "/docs/physics-simulation-gazebo"
+              },
+              "next": {
+                "title": "Sensor Simulation & Validation",
+                "permalink": "/docs/sensor-simulation-validation"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Physical AI & Robotics: Complete Educational Curriculum",
+              "description": "Welcome to the Ultimate Guide for AI-Driven Humanoid Robotics",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Book Introduction",
+                "title": "Physical AI & Robotics: Complete Educational Curriculum",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Introduction to ROS 2",
+                "permalink": "/docs/intro-ros2-physical-ai"
+              }
+            },
+            {
+              "id": "intro-ros2-physical-ai",
+              "title": "Introduction to ROS 2 for Physical AI",
+              "description": "Understanding ROS 2 as the middleware nervous system for humanoid robots",
+              "source": "@site/docs/intro-ros2-physical-ai.md",
+              "sourceDirName": ".",
+              "slug": "/intro-ros2-physical-ai",
+              "permalink": "/docs/intro-ros2-physical-ai",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro-ros2-physical-ai.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Introduction to ROS 2 for Physical AI",
+                "sidebar_label": "Introduction to ROS 2",
+                "description": "Understanding ROS 2 as the middleware nervous system for humanoid robots"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Book Introduction",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Communication Model",
+                "permalink": "/docs/ros2-communication-model"
+              }
+            },
+            {
+              "id": "isaac-ros-vslam-navigation",
+              "title": "Isaac ROS for VSLAM and Navigation",
+              "description": "Learn to use Isaac ROS for accelerated perception, VSLAM, and navigation in humanoid robotics",
+              "source": "@site/docs/isaac-ros-vslam-navigation.md",
+              "sourceDirName": ".",
+              "slug": "/isaac-ros-vslam-navigation",
+              "permalink": "/docs/isaac-ros-vslam-navigation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/isaac-ros-vslam-navigation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Isaac ROS for VSLAM and Navigation",
+                "sidebar_label": "Isaac ROS for VSLAM and Navigation",
+                "description": "Learn to use Isaac ROS for accelerated perception, VSLAM, and navigation in humanoid robotics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NVIDIA Isaac Sim for Photorealistic Simulation",
+                "permalink": "/docs/nvidia-isaac-sim-photorealistic-simulation"
+              },
+              "next": {
+                "title": "Nav2 Path Planning for Humanoid Robots",
+                "permalink": "/docs/nav2-path-planning-humanoid-robots"
+              }
+            },
+            {
+              "id": "llm-cognitive-planning",
+              "title": "LLM Cognitive Planning for Robotics",
+              "description": "Learn to use Large Language Models for cognitive planning to convert natural language commands into ROS 2 actions",
+              "source": "@site/docs/llm-cognitive-planning.md",
+              "sourceDirName": ".",
+              "slug": "/llm-cognitive-planning",
+              "permalink": "/docs/llm-cognitive-planning",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/llm-cognitive-planning.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "LLM Cognitive Planning for Robotics",
+                "sidebar_label": "LLM Cognitive Planning",
+                "description": "Learn to use Large Language Models for cognitive planning to convert natural language commands into ROS 2 actions"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Voice Processing with Whisper",
+                "permalink": "/docs/voice-processing-with-whisper"
+              },
+              "next": {
+                "title": "VLA Capstone Project",
+                "permalink": "/docs/vla-capstone-project"
+              }
+            },
+            {
+              "id": "nav2-path-planning-humanoid-robots",
+              "title": "Nav2 Path Planning for Humanoid Robots",
+              "description": "Learn to configure Nav2 for humanoid-specific path planning and navigation in robotics applications",
+              "source": "@site/docs/nav2-path-planning-humanoid-robots.md",
+              "sourceDirName": ".",
+              "slug": "/nav2-path-planning-humanoid-robots",
+              "permalink": "/docs/nav2-path-planning-humanoid-robots",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nav2-path-planning-humanoid-robots.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Nav2 Path Planning for Humanoid Robots",
+                "sidebar_label": "Nav2 Path Planning for Humanoid Robots",
+                "description": "Learn to configure Nav2 for humanoid-specific path planning and navigation in robotics applications"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Isaac ROS for VSLAM and Navigation",
+                "permalink": "/docs/isaac-ros-vslam-navigation"
+              },
+              "next": {
+                "title": "Voice Processing with Whisper",
+                "permalink": "/docs/voice-processing-with-whisper"
+              }
+            },
+            {
+              "id": "nvidia-isaac-sim-photorealistic-simulation",
+              "title": "NVIDIA Isaac Sim for Photorealistic Simulation",
+              "description": "Learn to create photorealistic simulation environments using NVIDIA Isaac Sim for humanoid robotics",
+              "source": "@site/docs/nvidia-isaac-sim-photorealistic-simulation.md",
+              "sourceDirName": ".",
+              "slug": "/nvidia-isaac-sim-photorealistic-simulation",
+              "permalink": "/docs/nvidia-isaac-sim-photorealistic-simulation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nvidia-isaac-sim-photorealistic-simulation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "NVIDIA Isaac Sim for Photorealistic Simulation",
+                "sidebar_label": "NVIDIA Isaac Sim for Photorealistic Simulation",
+                "description": "Learn to create photorealistic simulation environments using NVIDIA Isaac Sim for humanoid robotics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sensor Simulation & Validation",
+                "permalink": "/docs/sensor-simulation-validation"
+              },
+              "next": {
+                "title": "Isaac ROS for VSLAM and Navigation",
+                "permalink": "/docs/isaac-ros-vslam-navigation"
+              }
+            },
+            {
+              "id": "physics-simulation-gazebo",
+              "title": "Physics Simulation with Gazebo",
+              "description": "Learn to create realistic physics-based simulations for humanoid robots using Gazebo",
+              "source": "@site/docs/physics-simulation-gazebo.md",
+              "sourceDirName": ".",
+              "slug": "/physics-simulation-gazebo",
+              "permalink": "/docs/physics-simulation-gazebo",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physics-simulation-gazebo.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Physics Simulation with Gazebo",
+                "sidebar_label": "Physics Simulation with Gazebo",
+                "description": "Learn to create realistic physics-based simulations for humanoid robots using Gazebo"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Robot Structure with URDF",
+                "permalink": "/docs/robot-structure-urdf"
+              },
+              "next": {
+                "title": "Digital Twins & HRI in Unity",
+                "permalink": "/docs/digital-twins-unity"
+              }
+            },
+            {
+              "id": "robot-structure-urdf",
+              "title": "Robot Structure with URDF",
+              "description": "Understanding URDF for humanoid robot description and simulation readiness",
+              "source": "@site/docs/robot-structure-urdf.md",
+              "sourceDirName": ".",
+              "slug": "/robot-structure-urdf",
+              "permalink": "/docs/robot-structure-urdf",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/robot-structure-urdf.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Robot Structure with URDF",
+                "sidebar_label": "Robot Structure with URDF",
+                "description": "Understanding URDF for humanoid robot description and simulation readiness"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Communication Model",
+                "permalink": "/docs/ros2-communication-model"
+              },
+              "next": {
+                "title": "Physics Simulation with Gazebo",
+                "permalink": "/docs/physics-simulation-gazebo"
+              }
+            },
+            {
+              "id": "ros2-communication-model",
+              "title": "ROS 2 Communication Model",
+              "description": "Understanding Nodes, Topics, Services, and agent ↔ controller flow in ROS 2",
+              "source": "@site/docs/ros2-communication-model.md",
+              "sourceDirName": ".",
+              "slug": "/ros2-communication-model",
+              "permalink": "/docs/ros2-communication-model",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ros2-communication-model.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "ROS 2 Communication Model",
+                "sidebar_label": "Communication Model",
+                "description": "Understanding Nodes, Topics, Services, and agent ↔ controller flow in ROS 2"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to ROS 2",
+                "permalink": "/docs/intro-ros2-physical-ai"
+              },
+              "next": {
+                "title": "Robot Structure with URDF",
+                "permalink": "/docs/robot-structure-urdf"
+              }
+            },
+            {
+              "id": "sensor-simulation-validation",
+              "title": "Sensor Simulation & Validation",
+              "description": "Learn to simulate sensors (LiDAR, depth cameras, IMU) and validate simulation accuracy",
+              "source": "@site/docs/sensor-simulation-validation.md",
+              "sourceDirName": ".",
+              "slug": "/sensor-simulation-validation",
+              "permalink": "/docs/sensor-simulation-validation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sensor-simulation-validation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Sensor Simulation & Validation",
+                "sidebar_label": "Sensor Simulation & Validation",
+                "description": "Learn to simulate sensors (LiDAR, depth cameras, IMU) and validate simulation accuracy"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Digital Twins & HRI in Unity",
+                "permalink": "/docs/digital-twins-unity"
+              },
+              "next": {
+                "title": "NVIDIA Isaac Sim for Photorealistic Simulation",
+                "permalink": "/docs/nvidia-isaac-sim-photorealistic-simulation"
+              }
+            },
+            {
+              "id": "vla-capstone-project",
+              "title": "VLA Capstone Project - Autonomous Humanoid Control",
+              "description": "Complete capstone project integrating voice processing, LLM cognitive planning, and ROS 2 action execution for autonomous humanoid robots",
+              "source": "@site/docs/vla-capstone-project.md",
+              "sourceDirName": ".",
+              "slug": "/vla-capstone-project",
+              "permalink": "/docs/vla-capstone-project",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vla-capstone-project.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "VLA Capstone Project - Autonomous Humanoid Control",
+                "sidebar_label": "VLA Capstone Project",
+                "description": "Complete capstone project integrating voice processing, LLM cognitive planning, and ROS 2 action execution for autonomous humanoid robots"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "LLM Cognitive Planning",
+                "permalink": "/docs/llm-cognitive-planning"
+              }
+            },
+            {
+              "id": "voice-processing-with-whisper",
+              "title": "Voice Processing with OpenAI Whisper",
+              "description": "Learn to implement voice-to-text processing using OpenAI Whisper for humanoid robotics applications",
+              "source": "@site/docs/voice-processing-with-whisper.md",
+              "sourceDirName": ".",
+              "slug": "/voice-processing-with-whisper",
+              "permalink": "/docs/voice-processing-with-whisper",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/voice-processing-with-whisper.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Voice Processing with OpenAI Whisper",
+                "sidebar_label": "Voice Processing with Whisper",
+                "description": "Learn to implement voice-to-text processing using OpenAI Whisper for humanoid robotics applications"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Nav2 Path Planning for Humanoid Robots",
+                "permalink": "/docs/nav2-path-planning-humanoid-robots"
+              },
+              "next": {
+                "title": "LLM Cognitive Planning",
+                "permalink": "/docs/llm-cognitive-planning"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Module 1: ROS 2 Nervous System",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "intro-ros2-physical-ai"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ros2-communication-model"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "robot-structure-urdf"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 2: Digital Twin (Gazebo & Unity)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "physics-simulation-gazebo"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "digital-twins-unity"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "sensor-simulation-validation"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 3: AI-Robot Brain (NVIDIA Isaac™)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "nvidia-isaac-sim-photorealistic-simulation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "isaac-ros-vslam-navigation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "nav2-path-planning-humanoid-robots"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 4: Vision-Language-Action (VLA)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "voice-processing-with-whisper"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "llm-cognitive-planning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vla-capstone-project"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

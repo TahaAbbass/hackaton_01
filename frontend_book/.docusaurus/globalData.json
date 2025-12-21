@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "digital-twins-unity",
+              "path": "/docs/digital-twins-unity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro-ros2-physical-ai",
+              "path": "/docs/intro-ros2-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-ros-vslam-navigation",
+              "path": "/docs/isaac-ros-vslam-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "llm-cognitive-planning",
+              "path": "/docs/llm-cognitive-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nav2-path-planning-humanoid-robots",
+              "path": "/docs/nav2-path-planning-humanoid-robots",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nvidia-isaac-sim-photorealistic-simulation",
+              "path": "/docs/nvidia-isaac-sim-photorealistic-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physics-simulation-gazebo",
+              "path": "/docs/physics-simulation-gazebo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "robot-structure-urdf",
+              "path": "/docs/robot-structure-urdf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2-communication-model",
+              "path": "/docs/ros2-communication-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sensor-simulation-validation",
+              "path": "/docs/sensor-simulation-validation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla-capstone-project",
+              "path": "/docs/vla-capstone-project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "voice-processing-with-whisper",
+              "path": "/docs/voice-processing-with-whisper",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

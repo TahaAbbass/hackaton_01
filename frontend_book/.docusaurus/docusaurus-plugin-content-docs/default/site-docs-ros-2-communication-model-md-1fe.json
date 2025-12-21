@@ -1,0 +1,28 @@
+{
+  "id": "ros2-communication-model",
+  "title": "ROS 2 Communication Model",
+  "description": "Understanding Nodes, Topics, Services, and agent ↔ controller flow in ROS 2",
+  "source": "@site/docs/ros2-communication-model.md",
+  "sourceDirName": ".",
+  "slug": "/ros2-communication-model",
+  "permalink": "/docs/ros2-communication-model",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ros2-communication-model.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ROS 2 Communication Model",
+    "sidebar_label": "Communication Model",
+    "description": "Understanding Nodes, Topics, Services, and agent ↔ controller flow in ROS 2"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to ROS 2",
+    "permalink": "/docs/intro-ros2-physical-ai"
+  },
+  "next": {
+    "title": "Robot Structure with URDF",
+    "permalink": "/docs/robot-structure-urdf"
+  }
+}

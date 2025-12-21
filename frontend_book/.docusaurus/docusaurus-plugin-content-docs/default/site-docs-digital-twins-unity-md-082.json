@@ -1,0 +1,28 @@
+{
+  "id": "digital-twins-unity",
+  "title": "Digital Twins & HRI in Unity",
+  "description": "Learn to create high-fidelity digital twins and Human-Robot Interaction using Unity",
+  "source": "@site/docs/digital-twins-unity.md",
+  "sourceDirName": ".",
+  "slug": "/digital-twins-unity",
+  "permalink": "/docs/digital-twins-unity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/digital-twins-unity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Digital Twins & HRI in Unity",
+    "sidebar_label": "Digital Twins & HRI in Unity",
+    "description": "Learn to create high-fidelity digital twins and Human-Robot Interaction using Unity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physics Simulation with Gazebo",
+    "permalink": "/docs/physics-simulation-gazebo"
+  },
+  "next": {
+    "title": "Sensor Simulation & Validation",
+    "permalink": "/docs/sensor-simulation-validation"
+  }
+}
