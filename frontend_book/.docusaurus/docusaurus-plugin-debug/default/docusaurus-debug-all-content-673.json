@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\Taha Abbas\\Documents\\GitHub\\hackaton_01\\frontend_book\\sidebars.js",
-          "contentPath": "C:\\Users\\Taha Abbas\\Documents\\GitHub\\hackaton_01\\frontend_book\\docs",
-          "contentPathLocalized": "C:\\Users\\Taha Abbas\\Documents\\GitHub\\hackaton_01\\frontend_book\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "D:\\New folder (2)\\hackaton_01\\frontend_book\\sidebars.js",
+          "contentPath": "D:\\New folder (2)\\hackaton_01\\frontend_book\\docs",
+          "contentPathLocalized": "D:\\New folder (2)\\hackaton_01\\frontend_book\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "id": "digital-twins-unity",

@@ -1,51 +1,51 @@
 {
-  "/__docusaurus/debug-dcc": {
+  "/__docusaurus/debug-aba": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-647-8fc"
+      "plugin": "plugin---docusaurus-debug-233-d55"
     }
   },
-  "/__docusaurus/debug/config-bcb": {
+  "/__docusaurus/debug/config-173": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-647-8fc"
+      "plugin": "plugin---docusaurus-debug-233-d55"
     }
   },
-  "/__docusaurus/debug/content-0b8": {
+  "/__docusaurus/debug/content-9f2": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-647-8fc"
+      "plugin": "plugin---docusaurus-debug-233-d55"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-c85": {
+  "/__docusaurus/debug/globalData-cfb": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-647-8fc"
+      "plugin": "plugin---docusaurus-debug-233-d55"
     }
   },
-  "/__docusaurus/debug/metadata-6f3": {
+  "/__docusaurus/debug/metadata-9e0": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-647-8fc"
+      "plugin": "plugin---docusaurus-debug-233-d55"
     }
   },
-  "/__docusaurus/debug/registry-040": {
+  "/__docusaurus/debug/registry-527": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-647-8fc"
+      "plugin": "plugin---docusaurus-debug-233-d55"
     }
   },
-  "/__docusaurus/debug/routes-9d4": {
+  "/__docusaurus/debug/routes-ef5": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-647-8fc"
+      "plugin": "plugin---docusaurus-debug-233-d55"
     }
   },
-  "/docs-409": {
+  "/docs-e6e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---docsa-36-ed6"
+      "plugin": "plugin---docs-666-1b8"
     }
   },
   "/docs-814": {
@@ -107,10 +107,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-voice-processing-with-whispera-20-182"
   },
-  "/-d09": {
+  "/-9da": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---dbf-1c1"
+      "plugin": "plugin---11-b-9a0"
     },
     "config": "config---5-e-9-4f3"
   }
